@@ -1,1 +1,6 @@
-# imayan-projects
+- 👋 Hi, I’m Imayan.
+- 👀 I’m actively looking for job opportunities as Data Engineer, Data Analyst.
+- 🌱 I’m currently learning AWS, Azure, AI, Python, SQL.
+- 💞️ I’m looking to collaborate on Data Engineering and Data Analytics projects. 
+- Email: imayanmail@gmail.com
+- LinkedIn: https://www.linkedin.com/in/imayan/
